@@ -342,3 +342,14 @@ input[type='text'] {
     color: gray;
     font-size: 14px;
 }
+
+.title {
+    font-weight: bold;
+}
+
+.title-1,
+.title-2,
+.title-3,
+.title-4 {
+    font-weight: bold;
+}
