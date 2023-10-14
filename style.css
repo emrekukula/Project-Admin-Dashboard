@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: Roboto;
+    font-family: 'Roboto';
     height: minmax(100vh,100vh);
     background-color: var(--dark-bg);
 }
